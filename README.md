@@ -23,9 +23,7 @@ It returns multiple channels of data:
 ### Installation
 
 Just copy up the script to a publically accessable web location.  
-I've committed into the application repository so it goes 
-
-with automatically 
+I've committed into the application repository so it goes up automatically 
 with code depoloyments and lands on the entire fleet of servers.
 
 In PRTG - when you have more than 1 application(php) server, you should be monitoring each individually. 
